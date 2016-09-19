@@ -1,0 +1,3 @@
+name: Digital CV Andreas Ling
+markdown: redcarpet
+exclude: ["node_modules", "gulpfile.js", "package.json"]
